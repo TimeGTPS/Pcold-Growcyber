@@ -1,0 +1,147 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (enet server test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  growbaltic.cpp
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\crypt_blowfish\crypt_blowfish.cpp(899,18): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\bcrypt.cpp(118,6): warning C4101: 'fd': unreferenced local variable
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(258,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(536,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(762,2): warning C4286: 'const std::out_of_range &': is caught by base class ('std::exception &') on line 758
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(762,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1043,148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1043,109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1220,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1220,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1464,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1482,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1487,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1491,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1791,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(1995,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2023,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2093,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2134,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2144,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2161,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2171,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2187,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2233,13): warning C4101: 'e': unreferenced local variable
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2365,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2387,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2458,27): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2461,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2477,18): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2740,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2750,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2768,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2777,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2786,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2815,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2895,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(2899,83): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3005,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3081,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3082,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3083,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3084,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3102,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3102,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3102,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3103,122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3103,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3103,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3104,122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3104,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3104,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3106,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3111,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3111,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3111,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3112,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3112,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3112,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3113,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3113,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3113,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3115,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3221,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3221,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3221,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3222,120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3222,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3222,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3223,120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3223,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3223,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3225,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3242,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3489,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3490,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3534,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(3954,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4005,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4045,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4271,11): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4281,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4282,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4309,70): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4623,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4623,120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4844,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4844,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4879,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4944,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4944,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(4545,13): warning C4101: 'e': unreferenced local variable
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5215,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5216,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5219,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5248,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5254,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5324,38): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5392,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5393,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5471,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5609,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(5737,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(6268,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(6397,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7067,25): warning C4309: '=': truncation of constant value
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7085,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7507,54): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7516,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7516,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7517,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7517,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7539,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7539,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7540,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7540,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7626,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7658,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7991,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7991,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7992,140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7992,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7993,140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7993,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7997,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7997,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7998,140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7998,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7999,140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7999,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(8016,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(8017,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(9253,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(9253,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(9264,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(9265,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(9366,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(9367,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(9569,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(9569,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(6057,52): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(7080,38): warning C4101: 'e': unreferenced local variable
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(8730,41): warning C4101: 'e': unreferenced local variable
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(9435,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\enet server test\growbaltic.cpp(238): warning C4715: 'ch2n': not all control paths return a value
+  enet server test.vcxproj -> C:\Users\Growbaltic\Desktop\GrowtopiaServer-master\Debug\Growbaltic.exe
