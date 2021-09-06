@@ -3,6 +3,9 @@ This source was from gtnoobs plain source made by me and Tron. The reason its pu
 
 DM on discord if anything ~
 
+### More fact about me:
+### 🔭 I’m currently working on Node.js, C++ & Py
+### 📫 How to reach me: You can reach me on Discord :)
 ### 📥 Discord: Time#1010
 <hr>
 
