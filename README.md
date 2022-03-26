@@ -6,7 +6,7 @@ DM on discord if anything ~
 ### More fact about me:
 ### 🔭 I’m currently working on Node.js, C++ & Py
 ### 📫 How to reach me: You can reach me on Discord :)
-### 📥 Discord: Time#1010
+### 📥 Discord: Time#3810
 <hr>
 
 <a href="https://github.com/TimeTopia">
